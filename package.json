@@ -8,7 +8,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@types/node": "^20.12.12",
     "@types/webdriverio": "^5.0.0",
@@ -16,5 +15,17 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5",
     "webdriverio": "^6.12.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirlshgn/boletia_automated_tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shirlshgn/boletia_automated_tests/issues"
+  },
+  "homepage": "https://github.com/shirlshgn/boletia_automated_tests#readme",
+  "description": "",
+  "dependencies": {
+    "@codeceptjs/configure": "^1.0.1"
   }
 }
